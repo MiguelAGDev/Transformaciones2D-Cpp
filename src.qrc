@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>img/Espacio.png</file>
+        <file>msc/SpaceSong.mp3</file>
+    </qresource>
+</RCC>
